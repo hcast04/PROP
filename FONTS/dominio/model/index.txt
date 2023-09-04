@@ -1,0 +1,1 @@
+Conté les clases del model y la clase que implementa el patró factoria

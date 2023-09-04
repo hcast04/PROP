@@ -1,0 +1,17 @@
+auxiliarclasses son les classes auxiliars
+
+functions son les funcions de les celes
+
+model son les clases del model
+
+parameter son les clases de la interficie parameter
+
+test son els tests unitaris 
+
+main es el main del programa
+
+input.txt es un input per el main
+
+El document Test de main explicado + Tutorial para usar el main explica com 
+usar el main i com hem realitzat el test de totes les funcionalitats del 
+programa

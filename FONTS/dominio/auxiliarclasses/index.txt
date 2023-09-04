@@ -1,0 +1,4 @@
+Pair es la clase pair
+
+ReferenceConverter es una clase auxiliar per transformar referencies en numeros
+i viceversa

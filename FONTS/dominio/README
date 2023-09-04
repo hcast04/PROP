@@ -1,0 +1,9 @@
+Clases del dominio separadas en paquetes.
+
+
+Con el main se pueden probar todas las funcionalidades del programa,
+en el archivo input hay un input para usar como ejemplo y el archivo "Test 
+de main explicado + Tutorial para usar el main" explica como usar el main
+para probar otros casos y un test que hemos hecho paso a paso de todas las 
+funcionalidades del programa. Si se ejecuta el main con el input se puede 
+revisar que funciona correctamente.

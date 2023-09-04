@@ -1,0 +1,8 @@
+FONTS 
+Dominio conté el codi de les clases de domini y el controlador de domini
+Datos conté el codi de les clases de datos y el controlador de persistencia
+Presentación conté el codi de les clases de la presentació y el controlador de presentació
+
+Doc conté la documentació (javadoc)
+
+EXE conté el test de la presentació
